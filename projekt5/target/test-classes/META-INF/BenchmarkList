@@ -1,0 +1,4 @@
+JMH S 19 bench.BenchmarkTest S 60 bench.generated.BenchmarkTest_ProstaFabrykaBenchmark_jmhTest S 22 ProstaFabrykaBenchmark S 3 All E A 1 1 1 E I 1 1 E E E E E I 1 1 E E E E E E U 11 NANOSECONDS E E 
+JMH S 18 unit.BenchmarkTest S 59 unit.generated.BenchmarkTest_ProstaFabrykaBenchmark_jmhTest S 22 ProstaFabrykaBenchmark S 3 All E A 1 1 1 E I 1 1 E E E E E I 1 1 E E E E E E U 11 NANOSECONDS E E 
+JMH S 19 bench.BenchmarkTest S 66 bench.generated.BenchmarkTest_AbstrakcyjnaFabrykaBenchmark_jmhTest S 28 AbstrakcyjnaFabrykaBenchmark S 3 All E A 1 1 1 E I 1 1 E E E E E I 1 1 E E E E E E U 11 NANOSECONDS E E 
+JMH S 18 unit.BenchmarkTest S 65 unit.generated.BenchmarkTest_AbstrakcyjnaFabrykaBenchmark_jmhTest S 28 AbstrakcyjnaFabrykaBenchmark S 3 All E A 1 1 1 E I 1 1 E E E E E I 1 1 E E E E E E U 11 NANOSECONDS E E 
